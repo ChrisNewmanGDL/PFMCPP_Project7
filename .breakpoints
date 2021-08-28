@@ -1,0 +1,42 @@
+{
+  "files": {
+    "Character.cpp": [
+      {
+        "id": "e2e29ae5-abb4-4769-99b4-9bcbf9f6e057",
+        "line": 95,
+        "version": 263,
+        "index": 2450
+      },
+      {
+        "id": "cb8fff63-d132-4cdd-90c9-66c2ff2e11bc",
+        "line": 97,
+        "version": 263,
+        "index": 2511
+      }
+    ],
+    "Character.h": [
+      {
+        "id": "1189c8bf-8a8d-443d-b491-b3692f998d6c",
+        "line": 7,
+        "version": 47,
+        "index": 88
+      }
+    ],
+    "Dragon.h": [
+      {
+        "id": "82ae7af3-1eaf-4840-9604-5ade18d1bce9",
+        "line": 2,
+        "version": 15,
+        "index": 13
+      }
+    ],
+    "Paladin.cpp": [
+      {
+        "id": "dc309dbc-bb88-4756-8103-16e47e6fac31",
+        "line": 2,
+        "version": 54,
+        "index": 21
+      }
+    ]
+  }
+}

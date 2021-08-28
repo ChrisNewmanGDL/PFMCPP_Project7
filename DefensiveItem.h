@@ -5,7 +5,7 @@
 
 struct DefensiveItem : Item
 {
-    DefensiveItem() : Item("defensive item", 3) { }
+    DefensiveItem() : Item("defensive item", 3) { } //name, effect
     void use(Character* character) override;
 };
 
