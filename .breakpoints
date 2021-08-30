@@ -22,6 +22,14 @@
         "index": 88
       }
     ],
+    "DefensiveItem.cpp": [
+      {
+        "id": "3a141faa-7e6f-4b4c-8a8a-dd66383f3ab1",
+        "line": 3,
+        "version": 25,
+        "index": 48
+      }
+    ],
     "Dragon.h": [
       {
         "id": "82ae7af3-1eaf-4840-9604-5ade18d1bce9",
@@ -30,11 +38,19 @@
         "index": 13
       }
     ],
+    "HelpfulItem.h": [
+      {
+        "id": "6bcc4ee5-b44f-4648-99ff-307e5fb7f058",
+        "line": 4,
+        "version": 8,
+        "index": 32
+      }
+    ],
     "Paladin.cpp": [
       {
         "id": "dc309dbc-bb88-4756-8103-16e47e6fac31",
         "line": 2,
-        "version": 54,
+        "version": 64,
         "index": 21
       }
     ]
